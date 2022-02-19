@@ -7,9 +7,9 @@ We havent presented the machine Leaerning model in this file , So in order to ge
 mentioning the paths correctly according to your pc evironment 
 ## In order to work several packages are meant to be installed 
 ->tensorflow 
-->keras /n
-->numpy /n
-->opencv /n
+->keras 
+->numpy 
+->opencv 
 
 ### The Deep Learing model is then implemented in the maskdetectcv.py file 
 In this file we can pass on a video or direct camera feed which will detect faces using the haar_face.xml model 
